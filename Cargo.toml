@@ -1,0 +1,9 @@
+[package]
+name = "Auto-Scroll-Linux"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+evdev = "0.12"
+libudev = "0.3"
+uinput = "0.1.3"
